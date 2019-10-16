@@ -1,7 +1,7 @@
 # nyu-travis-ci
 
 [![Build Status](https://travis-ci.org/qtds35k/lab-travis-ci.svg?branch=master)](https://travis-ci.org/qtds35k/lab-travis-ci)
-[![codecov](https://codecov.io/gh/qtds35k/lab-travis-ci/branch/master/graph/badge.svg)](https://codecov.io/gh/qtds35k/lab-travis-ci)
+[![codecoverage](https://codecov.io/gh/qtds35k/lab-travis-ci/branch/master/graph/badge.svg)](https://codecov.io/gh/qtds35k/lab-travis-ci)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
 This is for NYU DevOps lab on using Travis CI with Redis for Continuous Integration
